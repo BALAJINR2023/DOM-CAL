@@ -32,7 +32,7 @@ const button19 = document.createElement("button");
 container.setAttribute("id","container");
 calculator.setAttribute("id","calculator")
 output.setAttribute("id","result");
-output.type="type";
+output.type="text";
 output.placeholder="0"
 
 
