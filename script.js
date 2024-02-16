@@ -35,8 +35,6 @@ output.setAttribute("id","result");
 output.type="text";
 output.placeholder="0"
 
-
-
 button15.setAttribute("id","clear")
 button15.innerText = "AC";
 button15.addEventListener("click",()=>{
