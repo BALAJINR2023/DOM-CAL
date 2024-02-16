@@ -62,4 +62,20 @@ button:active {
     #calculator {
         grid-template-columns: repeat(4, minmax(40px, 1fr));
     }
+    h1,P{
+        display: flex;
+        justify-content: center;
+        padding: 2px;
+        margin: 2px;
+        font-size: small;
+    }
+    #result{
+        padding: 10px;
+        font-size: x-small;
+        margin-bottom: 5px;
+    }
+    button{
+        padding: 5px;
+        font-size: x-small;
+    }
 }
