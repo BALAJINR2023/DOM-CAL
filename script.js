@@ -1,7 +1,7 @@
 // create element:-
 const h1=document.createElement("h1");
 h1.setAttribute("id","title");
-h1.innerHTML="Calculator Task";
+h1.innerHTML="CALCULATOR";
 const para=document.createElement("p")
 para.setAttribute("id","description");
 para.innerHTML="DOM CAL"

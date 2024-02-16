@@ -1,5 +1,8 @@
 body{
     background-color:#ecf0f3;
+    background: url(/free-nature-images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 h1,P{
     display: flex;
